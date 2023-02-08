@@ -1,2 +1,3 @@
 # JS
- JS practice
+
+## Repository for practices related with JavaScript
